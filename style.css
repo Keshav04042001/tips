@@ -1,6 +1,6 @@
 :root {
-    --primary: #FFCE00;
-    --secondary: #FE4880;
+    --primary: #47bdfd;
+    --secondary: #9953da;
     --dark: #212121;
     --light: #F3F3F3;
   }
@@ -20,7 +20,7 @@
       font-size:x-large;
       font-family:Verdana, Geneva, Tahoma, sans-serif;
       text-align: center;
-      color: #FFCE00;
+      color: #47bdfd;
   }
   .card {
     margin: 60px auto 0;
@@ -139,4 +139,10 @@
     color: var(--dark);
     font-size: 18px;
     line-height: 1.4;
+  }
+
+  .para{
+    font-weight:200;
+    font-size:medium;
+    font-style: italic;
   }
